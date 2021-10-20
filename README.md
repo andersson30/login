@@ -1,6 +1,8 @@
 # MinticLogin
  Se realiza la Historia de Usuario Login 
+ 
 ----------------------------------------------
+
 Post: http://localhost:8000/user/
 
 JSON: 
@@ -16,7 +18,9 @@ JSON:
  "isActive": true
  }
 }
+
 ---------------------------------------------
+
 Post: localhost:8000/login/
 
 JSON:
@@ -25,7 +29,9 @@ JSON:
 "password": "contraseña"
 
 }
+
 --------------------------------------------
+
 localhost:8000/refresh/
 
 JSON:
@@ -35,6 +41,7 @@ JSON:
 }
 
 --------------------------------------------
+
 http://localhost:8000/user/1
 
 Autorization> Bearer Token > agrecar el campo del access
