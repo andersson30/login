@@ -3,7 +3,7 @@
  
 ----------------------------------------------
 
-Post: http://localhost:8000/user/
+**POST**: http://localhost:8000/user/
 
 JSON: 
 
@@ -21,7 +21,7 @@ JSON:
 
 ---------------------------------------------
 
-Post: localhost:8000/login/
+**POST**: localhost:8000/login/
 
 JSON:
 {
@@ -32,7 +32,7 @@ JSON:
 
 --------------------------------------------
 
-localhost:8000/refresh/
+**GET**: localhost:8000/refresh/
 
 JSON:
 {
